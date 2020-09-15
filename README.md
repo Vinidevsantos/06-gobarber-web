@@ -17,12 +17,6 @@
 
 </h2>
 
-<h1 align="center">
-	<a href="https://gobarber-ebon.vercel.app/">
-  		<img src="https://github.com/Vinidevsantos/06-gobarber-web/blob/master/src/assets/Capa.png?raw=true" alt="Logo da Proffy" />
-	</a>
-</h1>
-
 ## ❔ Sobre o projeto
 
 Gobarber
