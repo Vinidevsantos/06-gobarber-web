@@ -27,7 +27,9 @@ O projeto está sendo desenvolvido no Bootcamp da Rocketseat (https://app.rocket
 
 <p align="center"><b>Interface Web para Desktop</b></p>
 <p align="center">
+  <a href="https://gobarber-ebon.vercel.app/"> 
   <img src="https://github.com/Vinidevsantos/06-gobarber-web/blob/master/src/assets/Capa.png?raw=true" alt="GoBarber Web" />
+  </a>
 </p>
 
 
